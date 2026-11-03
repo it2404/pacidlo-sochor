@@ -1,0 +1,14 @@
+rich==15.0.0
+matplotlib==3.11.2
+numpy==2.5.4
+pillow==13.0.0
+fonttools==4.68.0
+cycler==0.12.1
+kiwisolver==1.5.1
+markdown-it-py==4.2.0
+mdurl==0.1.2
+packaging==26.3
+Pygments==2.21.0
+pyparsing==3.3.3
+python-dateutil==4.0.0
+tzdata==2026.6
